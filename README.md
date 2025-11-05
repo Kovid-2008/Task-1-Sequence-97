@@ -1,6 +1,3 @@
-# Task-1 Sequence-97
-ShriteQ 2025 Task Force Task 1
-
 # 🚨 OPERATION — Sequence 97 🚨
 > **Mission:** Decode the obfuscated source to identify the NullVector Syndicate's password and deduce the secret password to disable the wipeout drone `Sequence 97`, and 
 
