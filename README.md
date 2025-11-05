@@ -17,7 +17,7 @@
 
 ## Submission (files to submit)
 
-* `decoded_code.kt` — your readable, compilable Kotlin source.
+* `decoded_source.kt` — your readable, compilable Kotlin source.
 * `syndicate-starter.kt` — the original obfuscated starter file (unchanged).
 * `playground_screenshot.png` — screenshot showing code and console output.
 * `cipher.txt` — character mapping for each emoji to the corrusponding letter of the alphabet.
@@ -25,7 +25,7 @@
 * `successful-password.txt` — your final password
 * Optional bonus: `bonus_passwords.txt` — list up to 7 alternative passwords that also work.
 
-Name your submission folder: `School_Name_TaskForce.zip`.
+Name your submission folder: `SchoolName_TaskForce_1.zip`.
 
 ---
 
