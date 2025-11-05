@@ -1,5 +1,5 @@
 # 🚨 OPERATION — Sequence 97 🚨
-> **Mission:** Decode the obfuscated source to identify the NullVector Syndicate's password and deduce the secret password to disable the wipeout drone `Sequence 97`, and 
+> **Mission:** Decode the obfuscated source to identify the NullVector Syndicate's password and deduce the secret password to disable the wipeout drone `Sequence 97`.
 
 ## Task requirements
 
